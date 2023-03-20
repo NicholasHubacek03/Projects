@@ -1,5 +1,13 @@
-body {
+body, html{
     background-image: url("../img/sky.jpeg");
     background-repeat: no-repeat;
     background-size: 100%;
+    color: red;
+}
+header{
+    text-align: center;
+
+}
+{
+    color: red;
 }
